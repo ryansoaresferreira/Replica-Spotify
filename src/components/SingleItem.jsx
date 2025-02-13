@@ -30,5 +30,3 @@ const SingleItem = ({ id, name, image, banner, artist, idPath }) => {
 };
 
 export default SingleItem;
-
-
